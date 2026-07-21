@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanka Kumari
 
-<!--
-**priyanka-dev84/priyanka-dev84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (2nd Year)
+📍 Bangalore, India
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Learning C, Python, HTML & CSS
+- 🌱 Currently learning Data Structures & Algorithms
+- 🚀 Interested in Web Development
+- 🎯 Looking for Software Development Internship opportunities
+
+## 🛠️ Skills
+
+- C
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 📂 Projects
+
+- 📌 C Programs
+- 📌 DSA in C
+- 📌 HTML & CSS Projects
+- 📌 Python Mini Projects
+
+## 📫 Connect with Me
+
+- LinkedIn :www.linkedin.com/in/priyanka-kumari-3a3921397
+- Email: pk0015697@gmail.com
+
+⭐ Thanks for visiting my profile!
