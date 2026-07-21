@@ -19,13 +19,6 @@
 - Git
 - GitHub
 
-## 📂 Projects
-
-- 📌 C Programs
-- 📌 DSA in C
-- 📌 HTML & CSS Projects
-- 📌 Python Mini Projects
-
 ## 📫 Connect with Me
 
 - LinkedIn :www.linkedin.com/in/priyanka-kumari-3a3921397
