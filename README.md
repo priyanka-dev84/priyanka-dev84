@@ -25,3 +25,12 @@
 - Email: pk0015697@gmail.com
 
 ⭐ Thanks for visiting my profile!
+
+
+   ## Github stats
+   ![GitHub
+   Stats](https://github-readme-t=stats.vercel.app/api?username=priyanka-dev84&show_icons=true&theme=tokyonight)
+   ![Top
+   Languages](https://github-readme-stats.vercel.app/api/top-lang/?username=priyanka-dev84&layout=compact&theme=tokyonight)
+   ![GitHub
+   streak](https://streak-stats.demolab.com?user=priyanka-dev84&theme=tokyonight)
